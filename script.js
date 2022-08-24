@@ -123,6 +123,6 @@ function showWeatherData(data){
         }
     })
     weatherForecastEl.innerHTML=otherDayForcast;
-
-
 }
+
+// Coded by 4shutosh
